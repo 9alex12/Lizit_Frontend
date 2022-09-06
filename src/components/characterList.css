@@ -1,0 +1,31 @@
+.character-list {
+  list-style: none;
+  font-size: 30px;
+  width: min-content;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.character-list li {
+  margin: 10px auto;
+  display: flex;
+  align-items: center;
+}
+
+.character-list img {
+  width: 200px;
+  border-radius: 50%;
+  border: 10px solid #3c3e44;
+  z-index: 1;
+}
+
+.character-list div {
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #3c3e44;
+  color: white;
+  padding: 10px 30px;
+  margin-left: -20px;
+  border-radius: 0 20px 20px 0;
+}

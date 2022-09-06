@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input {
+  font-size: 20px;
+  padding: 7px;
+  outline: none;
+  border: 2px solid #3c3e44;
+  border-radius: 10px;
+  margin-right: 5px;
+  min-width: 350px;
+}
+
+.button {
+  background-color: #3c3e44;
+  color: white;
+  padding: 7px 20px;
+  border-radius: 10px;
+}
+
+.mensaje {
+  font-size: 25px;
+}
